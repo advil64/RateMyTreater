@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <android.support.v7.widget.CardView
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:padding="@dimen/cardview_default_radius"
+            android:orientation="vertical"
+            android:layout_width="190dp"
+            android:layout_height="wrap_content">
+            <ImageView
+                android:id="@+id/viewImage"
+                android:layout_width="190dp"
+                android:layout_height="100dp"
+                android:layout_marginRight="190dp"/>
+        </LinearLayout>
+        <LinearLayout
+            android:padding="@dimen/cardview_default_radius"
+            android:orientation="vertical"
+            android:layout_width="190dp"
+            android:layout_marginLeft="190dp"
+            android:layout_height="wrap_content">
+            <TextView
+                android:id="@+id/textViewHead"
+                android:layout_width="190dp"
+                android:layout_height="wrap_content"
+                android:text="Heading"
+                android:textAppearance="@style/Base.TextAppearance.AppCompat.Large" />
+            <TextView
+                android:id="@+id/textViewDesc"
+                android:textAppearance="@style/Base.TextAppearance.AppCompat"
+                android:layout_width="190dp"
+                android:layout_height="wrap_content"
+                android:text="Description"/>
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+</android.support.constraint.ConstraintLayout>

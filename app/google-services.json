@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "88252437656",
+    "firebase_url": "https://ratemytreater.firebaseio.com",
+    "project_id": "ratemytreater",
+    "storage_bucket": "ratemytreater.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88252437656:android:502344921f09d42c",
+        "android_client_info": {
+          "package_name": "com.example.advillion.ratemytreater"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88252437656-g3kv81n9osplic68fca9t2111mvstihr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.advillion.ratemytreater",
+            "certificate_hash": "8d041b53258bf026fcd7f5fb6af54991454bdf1e"
+          }
+        },
+        {
+          "client_id": "88252437656-i2tndt7cici5aans8a2nvpnue11lpif5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-im9R--pR04SRkukHJGycxlTZB0oGLn0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88252437656-i2tndt7cici5aans8a2nvpnue11lpif5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

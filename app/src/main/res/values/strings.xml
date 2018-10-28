@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Rate My Treater</string>
+    <string name="settings">Settings</string>
+    <string name="warn">Please accept the permissions</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Register</string>
+    <string name="action_sign_out">Sign Out</string>
+    <string name="signed_out">Signed Out</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_post">Rate My Treater</string>
+    <string name="Description">Add Description</string>
+</resources>
